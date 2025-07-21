@@ -15,13 +15,6 @@
       "category": "starters"
     },
     {
-      "name": "Grilled Fish",
-      "price": 20.00,
-      "description": "Fantastic grilled fish seasoned with salt.",
-      "image": "grilledfish.png",
-      "category": "mains"
-    },
-    {
       "name": "Pasta",
       "price": 6.99,
       "description": "Delicious pasta for your delight.",
