@@ -18,7 +18,7 @@
       "name": "Grilled Fish",
       "price": 20.00,
       "description": "Fantastic grilled fish seasoned with salt.",
-      "image": "grilledfish.jpg",
+      "image": "grilledfish.png",
       "category": "mains"
     },
     {
@@ -32,7 +32,7 @@
       "name": "Lemon Dessert",
       "price": 4.99,
       "description": "You can't go wrong with this delicious lemon dessert!",
-      "image": "Lemondessert.jpg",
+      "image": "Lemondessert.png",
       "category": "desserts"      
     }
   ]
